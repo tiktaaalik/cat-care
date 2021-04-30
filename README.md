@@ -4,9 +4,9 @@
 
 On Sunday, or any day when the door is locked:
 
-Codebox: press 0 and then enter the code provided with another 0 infront of it (0####). It will give message that the doors are open. Go in and quickly press the eleveator button (I think it unlocks for 30 seconds). 7th floor #713 
+Codebox: press 0 and then enter the code provided (#####). It will give message that the doors are open. Go in and quickly press the eleveator button (I think it unlocks for 30 seconds). 7th floor #713 
 
-Door code: To open press and wait for the pad to activate: enter the provided code. Make sure you slam to the door closed with some force to lock, and press the lock icon on the bottom right of the pad
+Door code: To open press and wait for the pad to activate: enter the provided code (####). Make sure you slam to the door closed with some force to lock, and press the lock icon on the bottom right of the pad
 
 
 ## Blackie
